@@ -14,5 +14,3 @@ These tests check:
     If energy levels are updated with +1 when the food is present in the animal's diet.
     If energy levels are updated with -1 when the food is not present in the animal's diet.
 
-    [AnimalTest](https://www.contributor-covenant.org/)
-
